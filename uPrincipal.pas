@@ -22,8 +22,6 @@ type
     Button1: TButton;
     procedure Button1Click(Sender: TObject);
   private
-    FValor: String;
-
     procedure ExibResultado(Value: String);
   public
     { Public declarations }
@@ -44,8 +42,8 @@ begin
   TSoma.New          { Cria uma nova instancia de TSoma }
     .add(Edit1.Text) { Adiciona o valor de edit 1 }
     .add(Edit2.Text) { Adiciona o valor de edit 2 }
-    .Resultado(ExibResultado) { Adiciona a procedure 'Exibir resultado' como paramêtro para exibir o resultado no edit3}
-    .Executar;  { Processa todos os dados adicionados anteriormente, mostra o resultado e ao termina limpa a classe TSoma da memória }
+    .Resultado(ExibResultado) { Adiciona a procedure 'Exibir resultado' como paramÃªtro para exibir o resultado no edit3}
+    .Executar;  { Processa todos os dados adicionados anteriormente, mostra o resultado e ao termina limpa a classe TSoma da memÃ³ria }
 end;
 
 procedure TForm1.ExibResultado(Value: String);
