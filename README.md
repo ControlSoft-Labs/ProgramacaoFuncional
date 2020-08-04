@@ -1,2 +1,2 @@
 # ProgramacaoFuncional
-Exemplo de programação funcional e Delphi
+Exemplo de programação funcional e reativa no Delphi.
