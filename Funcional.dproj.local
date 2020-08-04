@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/22 15:45:00.000.929,=C:\Users\ander\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/03 20:49:13.134,=C:\Users\ander\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/03 20:49:27.144,=C:\Users\ander\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/08/03 20:49:55.953,C:\Users\ander\Desktop\Funcional\Interfaces.pas=C:\Users\ander\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/08/03 20:50:01.213,C:\Users\ander\Desktop\Funcional\uPrincipal.dfm=C:\Users\ander\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/08/03 20:50:01.213,C:\Users\ander\Desktop\Funcional\uPrincipal.pas=C:\Users\ander\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/03 20:50:04.816,C:\Users\ander\Desktop\Funcional\Funcional.dproj=C:\Users\ander\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/08/03 20:52:32.725,=C:\Users\ander\Desktop\Funcional\Unit1.pas</Transaction>
+    <Transaction>2020/08/03 20:52:36.749,C:\Users\ander\Desktop\Funcional\uSoma.pas=C:\Users\ander\Desktop\Funcional\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
